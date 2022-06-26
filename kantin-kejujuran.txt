@@ -6,3 +6,4 @@ MANDATORY:
 4. Sebuah item harus memiliki nama produk, gambar produk, deskripsi, harga, dan waktu pembuatan
 5. Kita dapat mensorting secara descending atau ascending data waktu pembuatan produk dan nama produk
 6. Semua orang bisa menambahkan saldo kantin. Saldo maksimal yang dapat ditambahkan tak terbatas
+DEADLINE : 1 Juli 2022
