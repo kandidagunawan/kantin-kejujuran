@@ -38,7 +38,7 @@ else{$sort = $_POST['sort'];
         <h1>KANTIN KEJUJURAN</h1>
         <!-- <a href = login.php><img src = "login.jpg" width = 40px height =40px></a>  -->
         <ul>
-            <li> <a href = "login.php"> Home </a></li>
+            <li> <a href = "index.php"> Home </a></li>
             <li> <a href = "sell.php"> Start selling </a></li>
             <li> <a href = "balance.php"> Balance </a></li>
             <li> <a href="logout.php">Logout</a></li>
